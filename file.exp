@@ -1,0 +1,22 @@
+begin
+  count = 30;
+  while(count) do
+   begin
+   mult();
+   sum();
+   end;
+ end
+ 
+ void sum ()
+ begin
+ x = 7;
+ y = 2;
+ z = x + y;
+ 
+ end
+ void mult ()
+ begin
+ a = 3;
+ b = 8;
+ c = a * b;
+ end
